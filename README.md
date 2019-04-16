@@ -1,4 +1,4 @@
 # asciinema
 
-copy [asciinema](https://github.com/asciinema/asciinema) by [vlang](https://github.com/vlang/v) codeing.
+use [vlang](https://github.com/vlang/v) copy and make a [asciinema](https://github.com/asciinema/asciinema)
 
